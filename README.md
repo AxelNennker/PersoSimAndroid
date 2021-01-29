@@ -1,2 +1,2 @@
 # PersoSimAndroid
-A fork of Secunet's PersoSim Android app
+A fork of @secunet 's PersoSim Android app
